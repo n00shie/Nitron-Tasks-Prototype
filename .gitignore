@@ -1,5 +1,24 @@
+<<<<<<< HEAD
 .repl_history
 build
 resources/*.nib
 resources/*.momd
 resources/*.storyboardc
+=======
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/db/*.sqlite3
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+rerun.txt
+pickle-email-*.html
+>>>>>>> 46314e1e385c23b6aae2cb1283f667711835cf9b
